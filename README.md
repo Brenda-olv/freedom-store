@@ -1,5 +1,7 @@
 # freedom-store-vuejs
 
+# template e-commerce views
+
 > A Vue.js project
 
 ## Build Setup
